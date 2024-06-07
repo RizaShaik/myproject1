@@ -6,5 +6,48 @@
     color: gray;
     text-align: right;
     font-size: 15px;
-    margin-right: 100px;
+    display: inline;
+    position: absolute;
+    right: 150px;
+    top: 40px;
+    text-decoration: none;
+}
+#two{
+    color: gray;
+    text-align: right;
+    font-size: 15px;
+    display: inline;
+    position: absolute;
+    right: 100px;
+    top: 40px;
+    text-decoration: none;
+}
+#three{
+    color: gray;
+    text-align: right;
+    font-size: 15px;
+    display: inline;
+    position: absolute;
+    right: 50px;
+    top: 40px;
+    text-decoration: none;
+}
+#pho1{
+    position: absolute;
+    right: 5px;
+    top: 125px;
+}
+#text{
+    position: absolute;
+    left: 20px;
+    top: 150px;
+    font: arial;
+    font-size: 40px;
+    font-weight: bold;
+    color: #05081c; 
+}
+#four{
+    left: 20px;
+    font-size: 20px;
+    color: black;
 }
