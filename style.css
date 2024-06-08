@@ -8,7 +8,7 @@
     font-size: 15px;
     display: inline;
     position: absolute;
-    right: 150px;
+    right: 250px;
     top: 40px;
     text-decoration: none;
 }
@@ -18,7 +18,7 @@
     font-size: 15px;
     display: inline;
     position: absolute;
-    right: 100px;
+    right: 150px;
     top: 40px;
     text-decoration: none;
 }
@@ -34,12 +34,12 @@
 }
 #pho1{
     position: absolute;
-    right: 5px;
+    right: 10px;
     top: 125px;
 }
 #text{
     position: absolute;
-    left: 20px;
+    left: 60px;
     top: 150px;
     font: arial;
     font-size: 40px;
@@ -50,4 +50,20 @@
     left: 20px;
     font-size: 20px;
     color: #4C516D;
+}
+button{
+    background-color: dodgerblue;
+    color: white;
+    height: 50px;
+    width: 200px;
+    position: absolute;
+    left: 300px;
+}
+input{
+    height: 35px;
+    width: 250px;
+}
+#pho2{
+    position: absolute;
+    top: 750px;
 }
