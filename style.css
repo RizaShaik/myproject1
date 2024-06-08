@@ -1,3 +1,7 @@
+body{
+    background-color: white;
+}
+
 .first{
     display: inline-block;
     margin-left: 40px;
@@ -66,4 +70,14 @@ input{
 #pho2{
     position: absolute;
     top: 750px;
+    border-color: white;
+}
+.main{
+   
+}
+#six{
+    position: absolute;
+    top: 850px;
+    left: 30px;
+    background-color:rgb(242, 207, 252);
 }
