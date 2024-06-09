@@ -67,17 +67,31 @@ input{
     height: 35px;
     width: 250px;
 }
+main{
+   position: absolute; 
+   top: 750px;
+   bottom: 10px;
+}
 #pho2{
     position: absolute;
-    top: 750px;
-    border-color: white;
 }
-.main{
-   
+#pho3{
+    position: absolute;
+    right: 10px;
+    top: 125px;
 }
 #six{
     position: absolute;
-    top: 850px;
+    top: 90px;
     left: 30px;
-    background-color:rgb(242, 207, 252);
+    font: arial;
+    font-size: 40px;
+    font-weight: bold;
+    color: #05081c; 
+}
+#seven{
+    position: absolute;
+    top: 200px;
+    left: 30px;
+    font-size: 20px;
 }
