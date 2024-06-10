@@ -147,3 +147,46 @@ input{
     font-size: 0.5rem;
     top: 150px;
 }
+#fourteen{
+    position: relative;
+    top: 1300px;
+    height:195px;
+    background-color: hsl(240, 18%, 48%);
+}
+#fifteen{
+    position: absolute;
+    left :48px;
+    top: 40px;
+    color: white;
+    font-size: 30px;
+    font-weight: 300;
+    font-family: 'Open Sans',san-serif;
+}
+#sixteen{
+    position: absolute;
+    left :48px;
+    top: 70px;
+    color: white;
+    font-weight: 100;
+    font-size: 1rem;
+}
+#seventeen{
+    position: absolute;
+    right: 90px;
+    top: 40px;
+    width: 360px;
+}
+#eighteen{
+    position: absolute;
+    top: 90px;
+    left: 1000px;
+    width: 230px;
+    height: 50px
+}
+#twenty{
+    position: relative;
+    bottom: 0px;
+    top: 1300px;
+    height: 250px;
+    background-color: rgb(1, 1, 59);
+}
