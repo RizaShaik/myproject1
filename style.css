@@ -107,8 +107,46 @@ input{
 }
 #nine{
     position: absolute;
-    left: 5px;
-    color: green;
-    font-size: 15px;
-    text-decoration: underline;
+    left: 5px; 
+}
+#ten{
+    position: absolute;
+    left: 5px; 
+    background-color: white;
+    height: 185px;
+    width: 350px;
+}
+#quotes{
+    position: absolute;
+    top: 20px;
+    left: 25px;
+}
+#eleven{
+    position: absolute;
+    top: 25px;
+    left: 25px;
+    font-size: 1rem;
+}
+#icon{
+    position: absolute;
+    left: 25px;
+    top: 125px;
+    height: 40px;
+    width: 40px;
+    border-radius: 50%;
+}
+#twelve{
+    position: absolute;
+    left: 75px;
+    font-size: 1rem;
+    top: 128px;
+}
+#thirteen{
+    position: absolute;
+    left: 75px;
+    font-size: 0.5rem;
+    top: 150px;
+}
+#fourteen{
+   
 }
