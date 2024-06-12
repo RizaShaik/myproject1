@@ -52,11 +52,11 @@ body{
 }
 #four{
     left: 20px;
-    font-size: 20px;
+    font-size: 16px;
     color: rgb(46,46,46);
 }
 button{
-    background-color: dodgerblue;
+    background-color: hsl(224, 93%, 58%);
     color: white;
     height: 50px;
     width: 200px;
@@ -97,13 +97,13 @@ input{
     top: 50px;
     left: 5px;
     color: rgb(46,46,46);
-    font-size: 1rem;
+    font-size: 16px;
 }
 #eight{
     position: absolute;
     left: 5px;
     color: rgb(46,46,46);
-    font-size: 15px;
+    font-size: 16px;
 }
 #nine{
     position: absolute;
@@ -125,7 +125,7 @@ input{
     position: absolute;
     top: 25px;
     left: 25px;
-    font-size: 1rem;
+    font-size: 16px;
 }
 #icon{
     position: absolute;
@@ -151,7 +151,7 @@ input{
     position: relative;
     top: 1300px;
     height: 210px;
-    background-color: hsl(240, 18%, 48%);
+    background-color: hsl(238, 22%, 44%);
 }
 #fifteen{
     position: absolute;
@@ -168,7 +168,7 @@ input{
     top: 90px;
     color: white;
     font-weight: 100;
-    font-size: 1rem;
+    font-size: 16px;
 }
 #seventeen{
     position: absolute;
@@ -181,14 +181,15 @@ input{
     top: 110px;
     left: 1000px;
     width: 230px;
-    height: 50px
+    height: 50px;
+    background-color: hsl(224, 93%, 58%);
 }
 #twenty{
     position: relative;
     bottom: 0px;
     top: 1300px;
     height: 300px;
-    background-color: rgb(2, 2, 66);
+    background-color: hsl(243, 87%, 12%);
 }
 #logo1{
    height: 55px;
