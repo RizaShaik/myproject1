@@ -45,7 +45,7 @@ body{
     position: absolute;
     left: 60px;
     top: 150px;
-    font: arial;
+    font-family: arial;
     font-size: 40px;
     font-weight: bold;
     color: #05081c; 
@@ -96,13 +96,13 @@ input{
     position: absolute;
     top: 50px;
     left: 5px;
-    color: rgb(46,46,46);
+    color: hsl(0, 1%, 57%);
     font-size: 16px;
 }
 #eight{
     position: absolute;
     left: 5px;
-    color: rgb(46,46,46);
+    color:  hsl(0, 1%, 57%);
     font-size: 16px;
 }
 #nine{
@@ -278,4 +278,111 @@ input{
     border: 1px solid white;
     border-radius: 50%;
     padding: 0.5rem
+}
+@media(min-width:300px) and (max-width:600px){
+    .first{
+        margin-left: 10px;
+        height: 30px;
+        width: 100px;
+    }
+    #one{
+        font-size: 15px;
+        position: absolute;
+        top: 10px;
+        right: 125px;
+    }
+    #two{
+        font-size: 15px;
+        position: absolute;
+        top: 10px;
+        right: 70px;
+    }
+    #three{
+        font-size: 15px;
+        position: absolute;
+        top: 10px;
+        right: 5px;
+    }
+    #pho1{
+        height: 450px;
+        width: 320px;
+        right: 10px;
+    }
+    #text{
+        font-size: 25px;
+        position: absolute;
+        top: 560px;
+        left: 10px;
+        text-align: center;
+    }
+    #four{
+        font-size: 14px;
+        text-align: center;
+        left: 10px;
+    }
+    input{
+        width: 300px;
+    }
+    button{
+        position: absolute;
+        width: 300px;
+        top: 250px;
+        height: 35px;
+        left: 20px;
+    }
+    #pho2{
+        height: 70px;
+        width: 500px;
+        position: relative;
+        top: 870px;
+    }
+    #pho3{
+        height: 350px;
+        width: 400px;
+        right: 5px;
+        top: 950px;
+    }
+    #random{
+        height: 450px;
+        width: 400px;
+        position: absolute;
+        top: 1300px;
+    }
+    #six{
+        font-size: 20px;
+        position: absolute;
+        top: 1300px;
+        left: 17px;
+        text-align: center;
+    }
+    #seven{
+        font-size: 16px;
+        text-align: left;
+        position: relative;
+        left: 0px;
+        top: 0px;
+        font-weight: 700;
+    }
+    #eight{
+        font-size: 16px;
+        text-align: left;
+        position: absolute;
+        left: 0px;
+        top: 80px;
+        font-weight: 700;
+    }
+    #ten{
+        position: absolute;
+        top: 200px;
+        left: 0px;
+    }
+    #fourteen{
+        position: absolute;
+        top: 1700px;
+    }
+    #twenty{
+        position: absolute;
+        top: 2400px;
+    }
+    
 }
