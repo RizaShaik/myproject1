@@ -279,7 +279,7 @@ input{
     border-radius: 50%;
     padding: 0.5rem
 }
-@media(min-width:300px) and (max-width:600px){
+@media(min-width:300px) and (max-width:500px){
     .first{
         margin-left: 10px;
         height: 30px;
@@ -312,7 +312,7 @@ input{
         font-size: 25px;
         position: absolute;
         top: 560px;
-        left: 10px;
+        left: 15px;
         text-align: center;
     }
     #four{
@@ -325,7 +325,7 @@ input{
     }
     button{
         position: absolute;
-        width: 300px;
+        width: 280px;
         top: 250px;
         height: 35px;
         left: 20px;
@@ -385,28 +385,28 @@ input{
     }
     #fifteen{
         font-size: 20px;
-        position: relative;
+        position: absolute;
         text-align: center;
-        top: 40px;
-        left: 60px;
+        top: 50px;
+        left: 70px;
     }
     #sixteen{
-        position: relative;
-        left: 1px;
-        top: 55px;
+        position: absolute;
+        left: 10px;
+        top: 80px;
         text-align: center;
-        font-size: 16px;
+        font-size: 14px;
     }
     #seventeen{
-        position: relative;
-        top: 50px;
+        position: absolute;
+        top: 180px;
         height: 35px;
         width: 250px;
         left: 43px;
     }
     #eighteen{
-        position: relative;
-        top: 65px;
+        position: absolute;
+        top: 230px;
         height: 35px;
         width: 250px;
         left: 43px;
@@ -414,18 +414,58 @@ input{
     #twenty{
         position: relative;
         top: 1637px;
-        height: 450px;
+        height: 600px;
         width: 400px;
     }
     #logo1{
         position: relative;
         top: 30px;
-        left: 20px;
+        left: 40px;
         height: 45px;
     }
     #pho4{
-        position: relative;
-        top: 80px;
-        right: 100px;
+        position: absolute;
+        top: 100px;
+        left: 30px;
+    }
+    #number{
+        position: absolute;
+        top: 100px;
+        left: 70px;
+    }
+    #pho5{
+        position: absolute;
+        top: 140px;
+        left: 30px;
+    }
+    #twentyone{
+        position: absolute;
+        top: 140px;
+        left: 70px;
+    }
+    #list-format1{
+        position: absolute;
+        top: 180px;
+        left: 0px;
+    }
+    #list-format2{
+        position: absolute;
+        top: 350px;
+        left: 0px;
+    }
+    #fblogo{
+        position: absolute;
+        top: 520px;
+        left: 80px;
+    }
+    #xlogo{
+        position: absolute;
+        top: 520px;
+        left: 130px;
+    }
+    #iglogo{
+        position: absolute;
+        top: 520px;
+        left: 180px;
     }
 }
