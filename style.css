@@ -159,7 +159,7 @@ input{
     top: 60px;
     color: white;
     font-size: 30px;
-    font-weight: 300;
+    font-weight: 700;
     font-family: 'Open Sans',san-serif;
 }
 #sixteen{
@@ -167,7 +167,7 @@ input{
     left :50px;
     top: 90px;
     color: white;
-    font-weight: 100;
+    font-weight: 400;
     font-size: 16px;
 }
 #seventeen{
@@ -338,8 +338,9 @@ input{
     }
     #pho3{
         height: 350px;
-        width: 400px;
-        right: 5px;
+        width: 380px;
+        position: absolute;
+        left: 5px;
         top: 950px;
     }
     #random{
@@ -377,12 +378,42 @@ input{
         left: 0px;
     }
     #fourteen{
-        position: absolute;
-        top: 1700px;
+        position: relative;
+        top: 1638px;
+        height: 300px;
+        width: 390px;
+    }
+    #fifteen{
+        font-size: 20px;
+        position: relative;
+        text-align: center;
+        top: 40px;
+        left: 60px;
+    }
+    #sixteen{
+        position: relative;
+        left: 1px;
+        top: 55px;
+        text-align: center;
+        font-size: 16px;
+    }
+    #seventeen{
+        position: relative;
+        top: 50px;
+        height: 35px;
+        width: 250px;
+        left: 43px;
+    }
+    #eighteen{
+        position: relative;
+        top: 65px;
+        height: 35px;
+        width: 250px;
+        left: 43px;
     }
     #twenty{
-        position: absolute;
-        top: 2400px;
+        position: relative;
+        top: 1600px;
     }
     
 }
