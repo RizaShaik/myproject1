@@ -30,11 +30,6 @@ Users should be able to:
 The desktop design can be seen in the pdf that I have uploaded in this project.
 The mobile design can be seen in the png image.
 
-### Links
-
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: http://127.0.0.1:5500/myproject1/
-
 ## My process
 
 ### Built with
